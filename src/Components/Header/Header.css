@@ -1,0 +1,23 @@
+.social_icons {
+  display: flex;
+  justify-content: right;
+  padding-left: 700px;
+  color: white;
+}
+.social_icons a {
+  padding: 0px 30px;
+}
+.navlinks {
+  font-family: Neue Machina;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  color: rgb(250, 250, 250) !important;
+}
+.nav-link {
+  color: rgb(250, 250, 250) !important;
+}
+.navbar-light .navbar-toggler-icon {
+  background-color: white;
+
+}
